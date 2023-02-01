@@ -21,7 +21,7 @@
 </head>
 
 <body>
-  <video autoplay loop>
+  <video autoplay loop muted>
     <source src="b.mp4" type="video/mp4">
   </video>
 </body>
