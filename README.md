@@ -21,7 +21,7 @@
 
 <body>
   <video autoplay loop>
-    <source src="braveheart.mp4" type="video/mp4">
+    <source src="b.mp4" type="video/mp4">
   </video>
 </body>
 </html>
