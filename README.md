@@ -3,7 +3,7 @@
 
 <head>
   <style>
-    h1 {visibility: hidden;}
+    h1 { visibility: hidden; display: none; }
     video {
       position: fixed;
       top: 50%;
